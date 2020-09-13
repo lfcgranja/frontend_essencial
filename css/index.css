@@ -1,0 +1,337 @@
+.banner-destaque {
+    max-width: 100%;
+    display: ;
+    position: static;
+    margin-bottom: 3%;
+}
+
+#navegacao li {
+    padding-right: 3%;
+    padding-left: 3%;
+    display: inline-block;
+}
+
+#navegacao ul {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    
+}
+
+body {
+    font-size: 20px;
+    width: 100%;
+    background: linear-gradient(#ffffff, #cecdf5, #9a94f0);
+}
+
+.corpo{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#idcarrosel img{
+    max-width: 100%;
+}
+
+.departamentos figcaption{
+    color: black;
+    margin-bottom: 4%;
+}
+
+.departamentos img{
+    max-width: 100%;
+}
+
+header h1 {
+    display: block;
+    position: relative;
+    text-align: center;
+    align-content: center;
+    
+}
+
+header img{
+    max-width: 100%;
+}
+
+/* contato */
+#divcontato{
+    align-content: center;
+}
+#divcontato a{
+    margin-left: 15%;
+}
+#divcontato a:last-child{
+    margin: auto;
+}
+textarea {
+    box-sizing: border-box;
+    width: 100%;
+}
+.email{
+    margin: auto;
+}
+#menu ul{
+    padding-left: 0;
+}
+#menu ul li{
+    padding-right: 5%;
+}
+
+#painel-geral{
+    background: linear-gradient(#101E41, #1A316B, #22418F, #13244F, #0C1733);
+}
+#painel-geral p{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: #cecdf5;
+}
+#painel-geral img{
+    max-width: 100%;
+}
+
+.fotos img{
+    transition: 0.3s ease-out;
+}
+
+.fotos img:hover{
+    transition: 0.3s ease-in;
+    transform:	scale(1.2) rotate(-5deg);
+}
+
+#painel-geral figcaption{
+    font-weight: bold;
+    color:#cecdf5;
+}
+
+footer{
+    background-color: #101e42;
+    clear:	both;
+    margin-top: 2%;
+}
+#rodape{
+    position: relative;
+    color: #94a6d3;
+}
+
+#rodape img{
+    max-width: 100%;
+}
+
+#rodape ul li{
+    display: inline;
+}
+
+#rodape ul li img{
+    top: 20%;
+}
+
+#rodape p{
+    text-align: center;
+}
+
+/* quem somos  */
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    text-align: justify;
+    text-indent: 3%;
+
+}
+
+header {
+    width: 100%;
+    position: static;
+    display: block;
+    align-content: center;
+    background-color: #101e42;
+}
+
+.he2 figure {
+    background-color: #101e42;
+}
+
+.he2 nav {
+    position: static;
+    align-content: center;
+}
+
+.compromisso{
+    background: #525d7a;
+    border-radius: 0% 10%;
+}
+
+.missao{
+    background: #525d7a;
+    border-radius: 10% 0%;
+}
+
+.foto{
+    padding-top: 4%;
+    text-align: center;
+    color: #bff5fc;
+}
+.foto h5{
+    font-weight: bold;
+}
+
+.missao p, .compromisso p{
+    padding-bottom: 4%;
+    color: #8edbe6;
+}
+h2{
+    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#importante{
+    color: red;
+    border-bottom: 2px solid #680b0b;
+}
+
+.card img{
+    max-width: 100%;
+}
+
+.card{
+}
+
+@media (max-width: 575px) {
+    h1 {
+        text-align: center;
+        margin-right: 0;
+    }
+
+    #divcontato{
+        margin-top: 20%;
+        align-content: center;
+    }
+
+    #navegacao{
+        width: 100%;
+        position: static;
+        text-align: center;
+        align-content: center;
+        align-items: center;
+        
+    }
+
+    #navegacao ul {
+        padding-inline-start: 0%;
+        text-align: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    .he2 nav {
+        align-content: center;
+        text-align: center;
+    }
+
+    .he2 {
+        align-content: center;
+        text-align: center;
+    }
+
+    .text-sm-left {
+        text-align: left !important;
+    }
+
+    .text-sm-right {
+        text-align: right !important;
+    }
+
+    .text-sm-center {
+        text-align: center !important;
+    }
+
+    .banner-destaque {
+        text-align: center;
+        position: static;
+    }
+}
+
+/* Login */
+
+.loginbtn{
+    position: relative;
+    text-align: center;
+    --indigo: #61adf5;
+}
+     
+.he2login{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+    
+
+/* Produtos */
+
+.container-fluid ol{
+    list-style-type: none;
+}
+.container-fluid{
+    max-block-size: 100%;
+}
+.container-fluid figure{
+    margin-top: 3%;
+}
+
+.container {
+    float: left;
+    align-content: center;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    width: 50%;
+}
+
+.container li {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    margin: 2%;
+    padding-bottom: 10%;
+}
+
+.card{
+    background: #687390;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+.card h5{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: #68e7f8;
+}
+
+.card p{
+    text-align: center;
+    color: #bff5fc;
+}
+#h1{
+    font-weight: bold;
+    color: #68e7f8;
+    background: linear-gradient(#101E41, #1A316B, #22418F, #13244F, #0C1733);
+    padding-top: 4%;
+    padding-bottom: 4%;
+    text-shadow: 3px 3px #2b3b66;
+}
+
+/* login */
+
+#saudacao{
+    position: static;
+    display: inline;
+    float: right;
+    font-size: 15px;
+    margin-right: 0.5%;
+    color: black;
+}
