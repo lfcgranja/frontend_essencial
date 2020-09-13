@@ -2,7 +2,7 @@
 
 Projeto final da matéria Front-End Essencial na [Residência de Software](http://serratec.org/residencia-de-software/).
 
-- Feito em grupo com [Maria Clara Barbosa Estrella](https://github.com/mariaclarabarbosa), [Wenny Campos Teixeira](https://github.com/wennycampos), [Luis Felipe Granja](https://github.com/lfcgranja) e [Thiago Probst Coelho Vieira](https://github.com/ThiagoProbst).
+- Feito em grupo com [Karine do Valle](https://github.com/KarinedoValle), [Maria Clara Barbosa Estrella](https://github.com/mariaclarabarbosa), [Wenny Campos Teixeira](https://github.com/wennycampos), [Luis Felipe Granja](https://github.com/lfcgranja) e [Thiago Probst Coelho Vieira](https://github.com/ThiagoProbst).
 
 - Link para o nosso site publicado [Hero Company](https://herocompany.herokuapp.com/).
 ---------------------------------------------------------------------------------------------------------------------------------------------
